@@ -17,6 +17,9 @@ How to install dependences
 bio_pkgs <- c("NMF", "RColorBrewer", "cluster", "circlize", "cowplot", "data.table", "doParallel", "ggplot2", "grid", "reshape2", "viridis", "config", "argparse", "colorspace", "plyr")
 BiocManager::install(bio_pkgs)
 ```
+3: You may also need to solve some additional issues, such as
+   * X11 lib missing
+   * Frontier support  
 
 2: Run command line
 ```
