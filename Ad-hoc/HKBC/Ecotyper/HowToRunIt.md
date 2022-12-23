@@ -14,6 +14,11 @@ reshape2 (v1.4.4), viridis (v0.5.1 and v0.6.1), config (v0.3.1), argparse (v2.0.
 How to install dependences 
 1: upgrade your R version to 4.x (eg the latest version 4.2.2)
 2: Install R packages
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("ComplexHeatmap")
+
 bio_pkgs <- c("NMF", "RColorBrewer", "cluster", "circlize", "cowplot", "data.table", "doParallel", "ggplot2", "grid", "reshape2", "viridis", "config", "argparse", "colorspace", "plyr")
 BiocManager::install(bio_pkgs)
 ```
