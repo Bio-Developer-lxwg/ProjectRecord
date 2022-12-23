@@ -21,7 +21,7 @@ BiocManager::install(bio_pkgs)
    * X11 lib missing
    * Frontier support  
 
-2: Run command line
+3: Run command line
 ```
 Rscript EcoTyper_recovery_bulk.R -d Carcinoma -m /home/lixin/lxwg/ad-hoc/Ecotyper/HKBC/all.231tumor.normal.renamed.no.dup.txt -t 8 -o /home/lixin/lxwg/ad-hoc/Ecotyper/HKBC/output/EcoTyper_recovery_bulk
 ```
