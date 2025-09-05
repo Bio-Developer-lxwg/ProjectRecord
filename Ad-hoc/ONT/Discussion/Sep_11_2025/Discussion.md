@@ -24,8 +24,21 @@
 3. The consistancy between the results from self-count and toulling QC
 
 ## The coverage issue between "20% Reads" and "Whole Flowcell"
-### Output From humane-variant pipeline1
+### Output From humane-variant pipeline
 1. SD386613
-   * "20% Reads" 
-      
-   *  "Whole Flowcell": 
+```
+(1) "20% Reads" 
+https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+
+(2) Whole Flowcell
+https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+```
+   
+2. SD407538
+```
+(1) "20% Reads" 
+https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+
+(2) Whole Flowcell
+https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+```
