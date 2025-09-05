@@ -28,17 +28,20 @@
 1. SD386613
 ```
 (1) "20% Reads" 
-https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+    a) General reslts: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
 
 (2) Whole Flowcell
-https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+    a) General reslts: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+    b) Plot of reads_per_hour: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
 ```
    
 2. SD407538
 ```
 (1) "20% Reads" 
-https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+    a) General reslts: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
 
 (2) Whole Flowcell
-https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+    a) General reslts: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+    b) Plot of reads_per_hour: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
 ```
+ 
