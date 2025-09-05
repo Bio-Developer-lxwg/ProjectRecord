@@ -24,7 +24,7 @@
 ```
 # Discussions
 1. The coverage issue between "20% Reads" and "Whole Flowcell"
-2. The reads number in chrX
+2. The reads number in chrX VS reads number in the whoe BAM
 3. The consistancy between the results from self-count and toulling QC
 
 ## The coverage issue between "20% Reads" and "Whole Flowcell"
