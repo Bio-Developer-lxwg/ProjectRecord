@@ -45,7 +45,7 @@ We use 4 types of results for quick evaluation, including
     b) Plot of reads_per_hour: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results/Whole_Flowcell_huname_variant_pipeline_SD386613_reads_per_hour.png
 ```
 ```
-Interpretation of the Plot:
+Interpretation of the Plot (based on "sequencing_summary.txt"):
 
 Very high throughput during the first ~5 hours: Each hour generated ~2.5–3 million reads.
 
@@ -79,7 +79,7 @@ This suggests that your multiple reloads didn’t meaningfully increase output.
     b) Plot of reads_per_hour: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results/Whole_Flowcell_huname_variant_pipeline_SD407538_reads_per_hour.png
 ```
 ```
-Interpretation of the Plot:
+Interpretation of the Plot (based on "sequencing_summary.txt"):
 ✅ Early Phase (0–5 hours):
 
 Very high throughput (≈ 3 million reads/hour)
