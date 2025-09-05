@@ -29,6 +29,12 @@
 
 ## The coverage issue between "20% Reads" and "Whole Flowcell"
 ### Output From humane-variant pipeline
+We use 4 types of results for quick evaluation, including 
+   * bed_summary.tsv
+   * flagstat.tsv
+   * mosdepth.summary.txt
+   * reads_per_hour.png (draw it based on "sequencing_summary.txt" from my code)
+
 1. SD386613
 ```
 (1) "20% Reads" 
