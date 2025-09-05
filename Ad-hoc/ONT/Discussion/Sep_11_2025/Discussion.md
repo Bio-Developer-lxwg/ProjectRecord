@@ -32,7 +32,7 @@
 
 (2) Whole Flowcell
     a) General reslts: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
-    b) Plot of reads_per_hour: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+    b) Plot of reads_per_hour: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results/Whole_Flowcell_huname_variant_pipeline_SD386613_reads_per_hour.png
 ```
    
 2. SD407538
@@ -42,6 +42,6 @@
 
 (2) Whole Flowcell
     a) General reslts: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
-    b) Plot of reads_per_hour: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results
+    b) Plot of reads_per_hour: https://github.com/Bio-Developer-lxwg/ProjectRecord/tree/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Results/Whole_Flowcell_huname_variant_pipeline_SD407538_reads_per_hour.png
 ```
  
