@@ -1,20 +1,24 @@
 # Dataset
 ## 20% Reads
 1. SD386613
+   * Total Size of Passed BAM(aligned): 63 GB
 ```
 /DCEG/CGF/Sequencing/ONT/Prom24/RawData/AS_chrX_ONT_training_07012025/SD386613/20250701_1804_1C_PBE55027_8e8920e8/bam_pass
 ```
 2. SD407538
+   * Total Size of Passed BAM(aligned): 19.63 GB
 ```
 /DCEG/CGF/Sequencing/ONT/Prom24/RawData/AS_chrX_ONT_training_07012025/SD407538/20250701_1804_1F_PBE54594_26fb9d5f/bam_pass
 ```
 ## Whole Flowcell
 1. SD386613
    * Reload 5 times
+   * Total Size of Passed BAM(aligned): 148.68 GB
 ```
 /DCEG/CGF/Sequencing/ONT/Prom24/PostRun_Analysis/20250701_1804_1C_PBE55027_8e8920e8/pass
 ```
 2. SD407538
+   * Total Size of Passed BAM(aligned): 77.50 GB
 ```
 /DCEG/CGF/Sequencing/ONT/Prom24/PostRun_Analysis/20250701_1804_1F_PBE54594_26fb9d5f/pass
 ```
