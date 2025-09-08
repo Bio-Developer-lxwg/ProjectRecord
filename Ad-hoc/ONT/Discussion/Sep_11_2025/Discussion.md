@@ -12,12 +12,13 @@
 ```
 ## Whole Flowcell
 1. SD386613
-   * Reload 5 times
+   * Reload 3 times
    * Total Size of Passed BAM(aligned): 148.68 GB
 ```
 /DCEG/CGF/Sequencing/ONT/Prom24/PostRun_Analysis/20250701_1804_1C_PBE55027_8e8920e8/pass
 ```
 2. SD407538
+   * Only load one time
    * Total Size of Passed BAM(aligned): 77.50 GB
 ```
 /DCEG/CGF/Sequencing/ONT/Prom24/PostRun_Analysis/20250701_1804_1F_PBE54594_26fb9d5f/pass
