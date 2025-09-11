@@ -34,13 +34,14 @@ Total reads across all BAMs: 5457428
 
 **************** Count *****************************
 ************** All alignments in chrX  *************
+*********primary, supplementrary, unmapped *********
 ****************************************************
 Count1: using chrX
 Total reads across all BAMs: 6263234
 
 ***************************************** Count *****************************
 ************** total number of alignments (chr1 to chrX, chrM)  *************
-*************************** primary alignments ******************************
+*********** All alignments (primary, supplementrary, unmapped) **************
 *****************************************************************************
 Total reads across all BAMs: 124463833
 ```
