@@ -18,4 +18,14 @@ We use sample **SD386613** as an example for discussion, since it was loaded thr
 <img width="463" height="468" alt="image" src="https://github.com/user-attachments/assets/e1e89167-3b1d-4f98-8628-65e4dba07f2c" />
 
 
-## The Issue Need to Addressed
+## The Issue Still Need to be Addressed
+1. The inconsistancy of the number of targeted reads (inside chrX) between the **human-variant pipeline** and **minKnow report** (I think this issue can also be explained)
+   * the number of targeted reads (inside chrX)  in **minKnow report**
+      * Total sequenced **"19.89M"** reads and **"4632.96K (4.6M)"** reads aligned to chrX.
+      * Total chrX covered bases **"24068.13M"**.
+   * the number of targeted reads (inside chrX) in **human-variant pipeline**
+      * Total **"8457909 (8.4M)"** reads in target region and **"3159785 (3.16M)"** unmapped
+         * (So the **Mapped** should be **8.4M - 3.16M = 5.24M**)
+      * Total chrX covered bases **26,301,808,009 (26301.81M)**
+<img width="460" height="480" alt="image" src="https://github.com/user-attachments/assets/836206f3-f6a3-475f-a30f-8a856cd8663d" />
+
