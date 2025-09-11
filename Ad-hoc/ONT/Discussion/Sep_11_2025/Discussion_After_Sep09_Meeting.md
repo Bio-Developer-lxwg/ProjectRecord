@@ -19,7 +19,7 @@ We use sample **SD386613** as an example for discussion, since it was loaded thr
 
 
 ## The Issue Still Need to be Addressed
-1. The inconsistancy of the number of targeted reads (inside chrX) between the **human-variant pipeline** and **minKnow report** (I think this issue can also be explained)
+1. The inconsistancy of the number of targeted reads (inside chrX) between the **human-variant pipeline** and **minKnow report** (**I think this issue can also be explained reasonably**)
    * the number of targeted reads (inside chrX)  in **minKnow report**
       * Total sequenced **"19.89M"** reads and **"4632.96K (4.6M)"** reads aligned to chrX.
       * Total chrX covered bases **"24068.13M"**.
