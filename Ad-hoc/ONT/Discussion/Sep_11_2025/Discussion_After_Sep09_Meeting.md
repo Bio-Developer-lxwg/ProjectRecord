@@ -27,5 +27,8 @@ We use sample **SD386613** as an example for discussion, since it was loaded thr
       * Total **"8457909 (8.4M)"** reads in target region and **"3159785 (3.16M)"** unmapped
          * (So the **Mapped** should be **8.4M - 3.16M = 5.24M**)
       * Total chrX covered bases **26,301,808,009 (26301.81M)**
+   * **Addressed**
+      * 4.6M is similar to 5.24M
+      * 24068.13M is similar to 26301.81M
 <img width="460" height="480" alt="image" src="https://github.com/user-attachments/assets/836206f3-f6a3-475f-a30f-8a856cd8663d" />
 
