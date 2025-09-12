@@ -26,8 +26,10 @@ https://github.com/Bio-Developer-lxwg/ProjectRecord/blob/main/Ad-hoc/ONT/Discuss
 2. The coverage results (chrX) from the **entire sample** and **MinKNOW Report** are similar & this is **expected**
    - 146.71x VS 159.501x
 
+3. The BAM file from the entire sample
+   - Based on "super accurate basecall" 
 
-3. Screenshot for illustration
+4. Screenshot for illustration
 <img width="463" height="468" alt="image" src="https://github.com/user-attachments/assets/e1e89167-3b1d-4f98-8628-65e4dba07f2c" />
 
 
