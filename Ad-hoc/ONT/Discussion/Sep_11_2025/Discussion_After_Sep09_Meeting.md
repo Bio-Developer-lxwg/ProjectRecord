@@ -2,13 +2,26 @@
 
 We use sample **SD386613** as an example for discussion, since it was loaded three times.
 
+Three steps involved, including
+* Adaptive sampling
+* Fastq basecall
+* Super Arrucate basecall
+For details, please check
+```
+https://github.com/Bio-Developer-lxwg/ProjectRecord/blob/main/Ad-hoc/ONT/Discussion/Sep_11_2025/Reference/Adaptive_Sequencing_Explain.png
+```
+
 ## What Has Already Been Clarified
 
 1. **MinKNOW Report Based on Adaptive Sequencing**
+   - The bam comes from **"fast basecall"**
    - The **20.22%** of reads refer to those located within the specified target region (**chrX**) from the **entire sample** (loaded three times).
    - The report provides a general profile of the target region (**chrX**) across the **whole flowcell**.
      - The **coverage of chrX (146.71×)** in this report reflects the coverage status across the entire sample (**159.501×**).
    - The purpose of the metrics in this report is to quickly provide a general overview of the target region (**chrX**) for the **entire sample**.
+   - The option "Basecall on target reads only"
+     - This means that only the reads roughly match the reference in target region will be considered
+     - The reads comes from the whole sample.
 
 2. The coverage results (chrX) from the **entire sample** and **MinKNOW Report** are similar & this is **expected**
    - 146.71x VS 159.501x
